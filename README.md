@@ -20,6 +20,9 @@ Utilized time series analysis to compare road accidents between 2021 and 2022, s
 5) Location-Based Data: Information on casualties by location and day/night.
 6) Road Surface Impact: Understanding the distribution of casualties based on road surface conditions.
 
+<img width="603" alt="image" src="https://github.com/Shruti-25082001/Road-Accident-Data-Analysis-Using-Excel/assets/86202833/ad1796fc-4cba-48fe-913a-123a4791c586">
+
+
 ### Key Insights: 
 
 - Total Casualties that took place after the accident: - 417,883
